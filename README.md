@@ -34,4 +34,7 @@ Es una API para la gestión de pedidos para cualquier tipo de negocio de comidas
 --> Desde Visual Studio inicializar el servidor ejecutando:
 ```npm start```
 
---> Abrir Postman e importar la colección de endpoints desde ```\tools\APIDelilahResto.postman_collection.json``` 
+--> Abrir Postman e importar la colección de endpoints desde ```/tools/APIDelilahResto.postman_collection.json``` y ```/tools/URL.postman_environment.json```
+
+
+////DOCUMENTACIÓN////
