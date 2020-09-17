@@ -41,13 +41,21 @@ Es una API para la gestión de pedidos para cualquier tipo de negocio de comidas
 
 --> TOKEN requerido: 
 * Key: Authorization 
-* Bearer: agregara cada ```ENDPOINT``` el token generado
+* Bearer: agregar a cada ```ENDPOINT``` el token generado
 
 --> RUTAS USUARIO
 
 - Sign up (user)
 - Sign up (admin)
+- Login user
+- Login admin
+- Users list
+- Delete user
 
+--> RUTAS PRODUCTOS
+
+- Create product
+- Products list
 
 
 
