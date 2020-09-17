@@ -56,6 +56,18 @@ Es una API para la gestión de pedidos para cualquier tipo de negocio de comidas
 
 - Create product
 - Products list
+- Product by ID
+- Update product
+- Delete product
+
+--> RUTAS PEDIDOS
+
+- Create order
+- Orders list
+- Order by ID
+- Orders by user
+- Update order
+- Delete order
 
 
 
