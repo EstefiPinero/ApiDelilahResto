@@ -49,25 +49,25 @@ Es una API para la gestión de pedidos para cualquier tipo de negocio de comidas
 - Sign up (admin)
 - Login user
 - Login admin
-- Users list
-- Delete user
+- Users list ```admin```
+- Delete user ```admin```
 
 --> RUTAS PRODUCTOS
 
-- Create product
+- Create product ```admin```
 - Products list
-- Product by ID
-- Update product
-- Delete product
+- Product by ID 
+- Update product ```admin```
+- Delete product ```admin```
 
 --> RUTAS PEDIDOS
 
 - Create order
-- Orders list
-- Order by ID
+- Orders list ```admin```
+- Order by ID 
 - Orders by user
-- Update order
-- Delete order
+- Update order ```admin```
+- Delete order ```admin```
 
 
 
