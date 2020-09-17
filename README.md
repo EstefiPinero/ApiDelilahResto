@@ -8,7 +8,7 @@ Es una API para la gestión de pedidos para cualquier tipo de negocio de comidas
 * Visual Studio
 * Postman
 * Node js
-* SQL
+* MySQL
 
 
 # ////Instructivo de Instalación////
