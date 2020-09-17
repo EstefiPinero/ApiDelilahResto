@@ -1,8 +1,8 @@
-ApiDelilahResto
+# ApiDelilahResto
 
 Es una API para la gestión de pedidos para cualquier tipo de negocio de comidas
 
-# ////PROGRAMAS REQUERIDOS////
+# ////Programas Requeridos////
 
 --> Instalar 
 * Visual Studio
@@ -11,7 +11,7 @@ Es una API para la gestión de pedidos para cualquier tipo de negocio de comidas
 * SQL
 
 
-# ////INSTRUCTIVO DE INSTALACIÓN////
+# ////Instructivo de Instalación////
 
 --> Descargar el proyecto https://github.com/EstefiPinero/ApiDelilahResto
 
@@ -37,7 +37,7 @@ Es una API para la gestión de pedidos para cualquier tipo de negocio de comidas
 --> Abrir Postman e importar  ```/tools/APIDelilahResto.postman_collection.json``` y ```/tools/URL.postman_environment.json```
 
 
-# ////DOCUMENTACIÓN////
+# ////Documentación////
 
 --> TOKEN requerido: 
 * Key: Authorization 
