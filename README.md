@@ -40,8 +40,8 @@ Es una API para la gestión de pedidos para cualquier tipo de negocio de comidas
 # ////Documentación////
 
 --> TOKEN requerido: 
-* Key: Authorization 
-* Bearer: agregar a cada ```ENDPOINT``` el token generado
+* Key: Authorization ✓
+* Bearer: agregar a cada ```ENDPOINT``` que requiera token
 
 --> RUTAS USUARIO
 
